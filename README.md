@@ -68,7 +68,7 @@ MegaBlog is built using the following technologies:
 
 To run MegaBlog locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/megablog.git`
+1. Clone the repository: `git clone https://github.com/namankoolwal/MegaBlog.git`
 2. Navigate to the project directory: `cd megablog`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
