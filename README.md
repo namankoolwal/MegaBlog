@@ -43,7 +43,7 @@ The login and signup pages are essential for user authentication. New users can 
 
 ## Site Link
 
-Visit [MegaBlog](https://www.megablog.com) to start blogging today!
+Visit [MegaBlog](https://mega-blog-nk.vercel.app/) to start blogging today!
 
 ## Technologies Used
 
